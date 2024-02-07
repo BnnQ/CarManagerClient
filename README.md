@@ -1,27 +1,15 @@
-# Client
+# Description
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.5.
+CarManager is a simple yet efficient web application designed as an admin dashboard for managing cars. It allows users to add, edit, and delete car entries, providing a streamlined interface for car management.
 
-## Development server
+The client-side of CarManager is built with Angular 15, a popular and robust framework for creating dynamic and responsive web applications. It leverages Angular's Dependency Injection and routing capabilities to ensure a modular and maintainable codebase.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+The [server-side](https://github.com/BnnQ/CarManagerServer) is written with ExpressJS, a fast, unopinionated, and minimalist web framework for Node.js. This combination of technologies ensures that CarManager is not only efficient and fast, but also scalable and maintainable.
 
-## Code scaffolding
+Despite its simplicity, CarManager stands out for its comfortable interface and efficiency, making it a handy tool for anyone involved in car management.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+# Screenshots
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+![image](https://github.com/BnnQ/CarManagerServer/assets/115489239/ff960489-e225-4854-bc01-47705316192e)
+![image](https://github.com/BnnQ/CarManagerServer/assets/115489239/d21bb7d4-a0da-44ab-9c74-22310090696e)
+![image](https://github.com/BnnQ/CarManagerServer/assets/115489239/2b6dab7d-4fca-4fb7-a2dc-fbc758a2dc70)
